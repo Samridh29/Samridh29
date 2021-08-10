@@ -1,6 +1,6 @@
 - 👋 Hi, 
 -     I’m @Samridh29
--         A freshman at Vellore Institue of Technology,Vellore.
+-         A sophomore at Vellore Institue of Technology,Vellore.
 -         I am currently learning iOS Development👨🏻‍💻.
 
 <!---
